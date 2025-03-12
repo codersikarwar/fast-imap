@@ -7,7 +7,6 @@
 * Tags: plugin, wordpress, github, imap, email
 * Requires at least: 7.4
 * Requires: PHP IMAP Extension 
-* Stable tag: [master](https://github.com/codersikarwar/fast-imap/releases/latest)
 * License: GPL v2.0 or Later
 
 Fast IMAP is a free, open-source plugin that lists emails directly within WordPress. Easily add and manage multiple IMAP server accounts.
