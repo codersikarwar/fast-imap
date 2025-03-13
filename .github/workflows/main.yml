@@ -19,10 +19,6 @@ jobs:
         with:
           php-version: '8.1' # Or your required PHP version
           extensions: imap, zip # Make sure imap is included
-          tools: composer
-
-      - name: Install Composer Dependencies
-        run: composer install --no-dev --optimize-autoloader
 
       - name: Zip Plugin
         run: |
