@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/codersikarwar/fast-imap/workflows/WordPress%20Tests/badge.svg">
-    <img src="https://github.com/codersikarwar/fast-imap//actions/workflows/main.yml/badge.svg" alt="WordPress"/>
+    <img src="https://github.com/codersikarwar/fast-imap//actions/workflows/main.yml/badge.svg"/>
   </a>
 </p>
 
