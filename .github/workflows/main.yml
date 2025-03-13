@@ -20,4 +20,4 @@ jobs:
           remote-user: u566477808
           private-ssh-key: ${{ secrets.SSH_KEY }}
           destination-path: /home/u566477808/domains/codersikarwar.site/public_html/wp-content/plugins/fast-imap/
-          port: 65002
+          ssh-port: 65002
