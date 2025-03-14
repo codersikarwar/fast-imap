@@ -72,15 +72,15 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://www.codersikarwar.site/wp-content/uploads/2025/03/Screenshot_20250313_092619_Chrome.jpg" alt="Fast IMAP Screenshot 1" width="800">
+  <img src="https://www.codersikarwar.site/wp-content/uploads/2025/03/Screenshot_20250313_092619_Chrome-e1741948712228.jpg" alt="Fast IMAP Screenshot 1" width="800">
 </p>
 
 <p align="center">
-  <img src="https://www.codersikarwar.site/wp-content/uploads/2025/03/Screenshot_20250313_092637_Chrome.jpg" alt="Fast IMAP Screenshot 2" width="800">
+  <img src="https://www.codersikarwar.site/wp-content/uploads/2025/03/Screenshot_20250313_092637_Chrome-e1741949075681.jpg" alt="Fast IMAP Screenshot 2" width="800">
 </p>
 
 <p align="center">
-  <img src="https://www.codersikarwar.site/wp-content/uploads/2025/03/Screenshot_20250313_092534_Chrome.jpg" alt="Fast IMAP Screenshot 3" width="800">
+  <img src="https://www.codersikarwar.site/wp-content/uploads/2025/03/Screenshot_20250313_092534_Chrome-e1741948788860.jpg" alt="Fast IMAP Screenshot 3" width="800">
 </p>
 
 ## Contributing
